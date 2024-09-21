@@ -34,7 +34,7 @@ const Main = () => {
     <div className="main">
       {/* Navigation Bar */}
       <div className="nav">
-        <p>Gemini</p>
+        <p>Gemini *Devolped by Subhankar</p>
         <img src={assets.user_icon} alt="User" />
       </div>
 
